@@ -1,0 +1,14 @@
+*{
+  padding: 0;
+  margin: 0
+}
+
+#box1{
+  background-color: blue;
+  float: left;
+}
+
+#box2{
+  background-color: red;
+  float: right;
+}
