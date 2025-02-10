@@ -17,10 +17,14 @@
     width: 25vw;
     height: 20vh;
     background-color: violet;
+    margin-left: 5vw;
+    margin-right: 5vw;
 }
 
 .child2{
     width: 25vw;
     height: 20vh;
     background-color: blue;
+    margin-left: 5vw;
+    margin-right: 5vw;
 }
