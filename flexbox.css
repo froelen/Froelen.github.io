@@ -35,10 +35,10 @@
 /*Mobile*/
 @media (max-width: 768px){
     .parent{
-        width: 90vw;
-        margin-left: 5vw;
-        margin-right: 5vw;
-        flex-direction: row;
+        width: 98vw;
+        margin-left: 1vw;
+        margin-right: 1vw;
+        flex-direction: column;
     }
     .child{
         width: 75vw;
@@ -50,14 +50,17 @@
 }
 
 /*Tablet TBD*/
+@media (min-width: 769px) and (max-width:1024px){
+
+}
 
 /*Desktop*/
-@media (min-width: 1250px){
+@media (min-width: 1025px){
     .parent{
-        width: 98vw;
-        margin-left: 1vw;
-        margin-right: 1vw;
-        flex-direction: column;
+        width: 90vw;
+        margin-left: 5vw;
+        margin-right: 5vw;
+        flex-direction: row;
     }
     .child{
         width: 30vw;
